@@ -1,9 +1,15 @@
-<?php
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Testes Comandos Git</title>
+	<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
 
-
-	echo "Ola Mundo<br>";
+	<h2>Git Comandos</h2>
 	
-	echo "Iniciando Git 2017"
+</body>
+</html>
 
 
-?>
